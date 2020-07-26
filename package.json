@@ -7,13 +7,17 @@
     "bad-words": "^3.0.3",
     "express": "^4.17.1",
     "mustache": "^4.0.1",
+    "netlify-lambda": "^2.0.1",
     "nodemon": "^2.0.4",
+    "serverless-http": "^2.5.0",
     "socket.io": "^2.3.0"
   },
   "devDependencies": {},
   "scripts": {
     "start": "node src/index.js",
-    "dev": "nodemon src/index.js"
+    "dev": "nodemon src/index.js",
+    "build": "build src/index.js"
+
   },
   "keywords": [],
   "author": "",
