@@ -10,7 +10,7 @@
     "netlify-lambda": "^2.0.1",
     "nodemon": "^2.0.4",
     "serverless-http": "^2.5.0",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.5.0"
   },
   "devDependencies": {},
   "scripts": {
